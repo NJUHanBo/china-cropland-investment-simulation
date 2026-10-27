@@ -1,6 +1,6 @@
 # Linking driver analysis to scenario simulation for cropland investment in China
 
-Code and county-level data for the article *Linking driver analysis to scenario simulation for cropland investment in China* (submitted to *The Innovation*).
+Code and county-level data for the article *Linking driver analysis to scenario simulation for cropland investment in China* by Bo Han, Xiaobin Jin, Rui Sun, Junjun Zhu and Yinkang Zhou (submitted to *The Innovation*).
 
 The analysis estimates county-level effects of four cropland investment areas (conservation, landscape pattern, use intensity and soil–water conditions) on three dimensions of cropland productivity (change, stability and acceleration) in 1,560 Chinese counties, groups counties into seven response types, fits one Gaussian Bayesian network per type on a causal graph corrected by the effect estimates, and simulates 945 scenarios (15 investment portfolios × 21 spatial targeting strategies × 3 levels of external pressure).
 
