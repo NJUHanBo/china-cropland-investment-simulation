@@ -1,0 +1,31 @@
+"From","To","CF_Status","ATE","CI_Lower","CI_Upper","From_EN","To_EN","Link_class","In_prior","In_final"
+"城市化","CPS","kept_theoretical",NA,NA,NA,"Urbanisation","Productivity stability (CPS)","Driver → productivity",TRUE,TRUE
+"土地利用","CPS","removed_by_cf",-0.164599279775223,-0.352985080287109,0.0237865207366635,"Landscape pattern","Productivity stability (CPS)","Driver → productivity",TRUE,FALSE
+"城市化","气候变化","kept_theoretical",NA,NA,NA,"Urbanisation","Climate change","Driver → driver",TRUE,TRUE
+"CPS","CPA","kept_theoretical",NA,NA,NA,"Productivity stability (CPS)","Productivity acceleration (CPA)","Productivity chain",TRUE,TRUE
+"城市化","利用强度","kept_theoretical",NA,NA,NA,"Urbanisation","Use intensity","Driver → driver",TRUE,TRUE
+"气候变化","CPI","kept_theoretical",NA,NA,NA,"Climate change","Productivity change (CPI)","Driver → productivity",TRUE,TRUE
+"城市化","土地利用","kept_theoretical",NA,NA,NA,"Urbanisation","Landscape pattern","Driver → driver",TRUE,TRUE
+"利用强度","CPS","confirmed_by_cf",0.880595573314451,0.656342261367338,1.10484888526156,"Use intensity","Productivity stability (CPS)","Driver → productivity",TRUE,TRUE
+"产权制度","CPI","removed_by_cf",0.0158918014837554,-0.0788561777457655,0.110639780713276,"Soil–water conditions","Productivity change (CPI)","Driver → productivity",TRUE,FALSE
+"产权制度","CPA","confirmed_by_cf",-0.409547430171154,-0.539554598981274,-0.279540261361034,"Soil–water conditions","Productivity acceleration (CPA)","Driver → productivity",TRUE,TRUE
+"利用强度","CPI","confirmed_by_cf",0.618148685499245,0.524103620542826,0.712193750455663,"Use intensity","Productivity change (CPI)","Driver → productivity",TRUE,TRUE
+"气候变化","CPS","kept_theoretical",NA,NA,NA,"Climate change","Productivity stability (CPS)","Driver → productivity",TRUE,TRUE
+"气候变化","CPA","kept_theoretical",NA,NA,NA,"Climate change","Productivity acceleration (CPA)","Driver → productivity",TRUE,TRUE
+"产权制度","气候变化","kept_theoretical",NA,NA,NA,"Soil–water conditions","Climate change","Driver → driver",TRUE,TRUE
+"土地利用","产权制度","kept_theoretical",NA,NA,NA,"Landscape pattern","Soil–water conditions","Driver → driver",TRUE,TRUE
+"气候变化","利用强度","kept_theoretical",NA,NA,NA,"Climate change","Use intensity","Driver → driver",TRUE,TRUE
+"CPA","CPI","kept_theoretical",NA,NA,NA,"Productivity acceleration (CPA)","Productivity change (CPI)","Productivity chain",TRUE,TRUE
+"城市化","保护政策","kept_theoretical",NA,NA,NA,"Urbanisation","Conservation","Driver → driver",TRUE,TRUE
+"CPS","CPI","kept_theoretical",NA,NA,NA,"Productivity stability (CPS)","Productivity change (CPI)","Productivity chain",TRUE,TRUE
+"保护政策","气候变化","kept_theoretical",NA,NA,NA,"Conservation","Climate change","Driver → driver",TRUE,TRUE
+"保护政策","产权制度","kept_theoretical",NA,NA,NA,"Conservation","Soil–water conditions","Driver → driver",TRUE,TRUE
+"土地利用","利用强度","kept_theoretical",NA,NA,NA,"Landscape pattern","Use intensity","Driver → driver",TRUE,TRUE
+"产权制度","利用强度","kept_theoretical",NA,NA,NA,"Soil–water conditions","Use intensity","Driver → driver",TRUE,TRUE
+"保护政策","CPI","added_by_cf",0.0716479831938183,0.01748744213168,0.125808524255957,"Conservation","Productivity change (CPI)","Driver → productivity",FALSE,TRUE
+"保护政策","CPS","added_by_cf",0.459470266524816,0.310318553021068,0.608621980028563,"Conservation","Productivity stability (CPS)","Driver → productivity",FALSE,TRUE
+"保护政策","CPA","added_by_cf",0.0887529335516201,0.00555721597976329,0.171948651123477,"Conservation","Productivity acceleration (CPA)","Driver → productivity",FALSE,TRUE
+"土地利用","CPI","added_by_cf",0.151096221769816,0.0748852437921321,0.2273071997475,"Landscape pattern","Productivity change (CPI)","Driver → productivity",FALSE,TRUE
+"土地利用","CPA","added_by_cf",0.305234040137886,0.197834541342745,0.412633538933028,"Landscape pattern","Productivity acceleration (CPA)","Driver → productivity",FALSE,TRUE
+"利用强度","CPA","added_by_cf",0.604116465799674,0.455832227081553,0.752400704517795,"Use intensity","Productivity acceleration (CPA)","Driver → productivity",FALSE,TRUE
+"产权制度","CPS","added_by_cf",-0.459090002334365,-0.68878045535938,-0.22939954930935,"Soil–water conditions","Productivity stability (CPS)","Driver → productivity",FALSE,TRUE

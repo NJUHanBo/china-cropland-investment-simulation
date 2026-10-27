@@ -1,0 +1,9 @@
+boundaries/
+fonts/*.ttf
+output/innov_figures/
+models/causal_forest_results/cf_models.RDS
+output/csv/scenario_results_cluster_bn.*
+output/csv/tradeoff_county_level.csv
+.DS_Store
+Rplots.pdf
+.Rhistory
